@@ -35,9 +35,8 @@ defaults:
       image: true
 
 # Build settings
-remote_theme: pages-themes/cayman@v0.2.0
+theme: minima
 plugins:
-  - jekyll-remote-theme
   - jekyll-feed
 
 # Exclude from processing.
