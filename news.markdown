@@ -2,7 +2,6 @@
 layout: post
 title: News
 permalink: /news/
-order: 3
 ---
 ## The latest news about COBALT
 
