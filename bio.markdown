@@ -7,7 +7,7 @@ permalink: /Members/
 ### Consortium chair
 Matthew Middleton
 
-## Members
+### Members
 Dr Hugh Dickinson
 Dr Adam Ingram
 Prof Marika Taylor
