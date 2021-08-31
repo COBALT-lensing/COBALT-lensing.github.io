@@ -8,12 +8,16 @@ permalink: /Members/
 
 Matthew Middleton
 
-### Members
+### Consortium Members
 
-1. Dr Hugh Dickinson.
-2. Dr Adam Ingram.
-3. Prof Marika Taylor.
-4. Mr Charlie Woodward.
-5. Mrs Amy Knight
+Dr Hugh Dickinson
+Dr Adam Ingram
+Dr Greg Wiktorowicz
+Dr Daniela Huppenkothen
+Prof Marika Taylor
+Prof Simon Hodgkin
+Prof Poshak Gandhi
+Mr Charlie Woodward
+Mrs Amy Knight
 
 
