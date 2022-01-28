@@ -23,8 +23,8 @@ permalink: /Members/
 * Prof Tom Maccarone
 * Dr Adam McMaster
 * Dr Andrés Gurpide
-* Mrs Madeleine-Mai Ward
+* Miss Madeleine-Mai Ward
 * [Mr Charlie Woodward](Charlie.md)
-* Mrs Amy Knight
+* Miss Amy Knight
 
 
