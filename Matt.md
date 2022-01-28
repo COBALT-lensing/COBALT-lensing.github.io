@@ -1,2 +1,2 @@
 My bio and pic
-(/assets/images/matt.jpg)
+[](/assets/images/matt.jpg)
