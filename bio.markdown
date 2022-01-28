@@ -6,7 +6,7 @@ permalink: /Members/
 
 ### Consortium chair
 
-* Matthew Middleton
+* [Matthew Middleton](other_file.md)
 
 ### Consortium Members
 
