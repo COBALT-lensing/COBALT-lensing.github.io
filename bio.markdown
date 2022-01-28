@@ -6,13 +6,13 @@ permalink: /Members/
 
 ### Consortium chair
 
-* [Matthew Middleton](other_file.md)
+* [Dr Matthew Middleton](Matt.md)
 
 ### Consortium Members
 
-* Dr Hugh Dickinson
-* Dr Adam Ingram
-* Dr Greg Wiktorowicz
+* [Dr Hugh Dickinson](Hugh.md)
+* [Dr Adam Ingram](Adam.md)
+* [Dr Greg Wiktorowicz](Greg.md)
 * Dr Daniela Huppenkothen
 * Prof Marika Taylor
 * Prof Simon Hodgkin
