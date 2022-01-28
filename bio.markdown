@@ -14,7 +14,7 @@ permalink: /Members/
 * [Dr Adam Ingram](Adam.md)
 * [Dr Greg Wiktorowicz](Greg.md)
 * Dr Daniela Huppenkothen
-* Prof Marika Taylor
+* [Prof Marika Taylor](Marika.md)
 * Prof Simon Hodgkin
 * Prof Poshak Gandhi
 * Prof Eric Bellm
@@ -24,7 +24,7 @@ permalink: /Members/
 * Dr Adam McMaster
 * Dr Andrés Gurpide
 * Mrs Madeleine-Mai Ward
-* Mr Charlie Woodward
+* [Mr Charlie Woodward](Charlie.md)
 * Mrs Amy Knight
 
 
