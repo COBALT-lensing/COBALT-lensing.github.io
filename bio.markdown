@@ -17,6 +17,13 @@ permalink: /Members/
 * Prof Marika Taylor
 * Prof Simon Hodgkin
 * Prof Poshak Gandhi
+* Prof Eric Bellm
+* Prof Simon Vaughan
+* Prof Kris Belcyznski
+* Prof Tom Maccarone
+* Dr Adam McMaster
+* Dr Andrés Gurpide
+* Mrs Madeleine-Mai Ward
 * Mr Charlie Woodward
 * Mrs Amy Knight
 
