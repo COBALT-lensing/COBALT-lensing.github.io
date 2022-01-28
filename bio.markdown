@@ -16,7 +16,7 @@ permalink: /Members/
 * [Dr Daniela Huppenkothen](Daniela.md)
 * [Prof Marika Taylor](Marika.md)
 * [Prof Simon Hodgkin](Simon.md)
-* Prof Poshak Gandhi
+* [Prof Poshak Gandhi](Poshak.md)
 * Prof Eric Bellm
 * Prof Simon Vaughan
 * Prof Kris Belcyznski
