@@ -3,3 +3,5 @@ Marika Taylor is professor of theoretical physics and head of Mathematical Scien
 
 https://www.southampton.ac.uk/maths/about/staff/mmt1c11.page
 
+
+![Marika](/assets/images/Marika.jpeg)
