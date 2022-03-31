@@ -8,4 +8,4 @@ title: Home
 
 ## Welcome to the COBALT Website
 
-The COBALT project is the brainchild of astrophysicist and elite powerlifter, Matt Middleton.
+The COBALT consortium is the brainchild of astrophysicist Dr Matt Middleton and is intended to exploit the science resulting from self-lensing searches in the near future.
