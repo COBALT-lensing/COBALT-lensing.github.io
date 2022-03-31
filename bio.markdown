@@ -17,12 +17,14 @@ permalink: /Members/
 * [Prof Marika Taylor](Marika.md)
 * [Prof Simon Hodgkin](Simon.md)
 * [Prof Poshak Gandhi](Poshak.md)
+* Prof Chris Belczynski
 * Prof Eric Bellm
 * Prof Simon Vaughan
 * Prof Kris Belcyznski
 * Prof Tom Maccarone
 * Dr Adam McMaster
 * Dr Andrés Gurpide
+* Dr Noel Castro-Segura
 * [Miss Madeleine-Mai Ward](Maddie.md)
 * [Mr Charlie Woodward](Charlie.md)
 * Miss Amy Knight
