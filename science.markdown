@@ -18,4 +18,4 @@ As described across several seminal papers, the self-lensing signal depends on s
 
 # Predicted  numbers
   
-  
+Determining the numbers of self-lensing systems is not straightforward and requires us to first simulate the binary population of the Milky Way. For this, we used the population synthesis code, [STARTRACK](https://ui.adsabs.harvard.edu/abs/2008ApJS..174..223B/abstract) 
