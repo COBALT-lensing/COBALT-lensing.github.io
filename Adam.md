@@ -2,4 +2,4 @@ I am a Lecturer and Royal Society University Research Fellow (URF) at Newcastle 
 
 Much of my research focuses on using X-ray observations and theoretical modelling to probe the environment of accreting black holes and neutron stars. I have a track record of developing novel observational techniques to test theoretical models, for instance enabling phase resolved spectroscopy of the X-ray quasi-periodic oscillations observed from black hole X-ray binary systems. Within the COBALT collaboration, I am interested in investigating the optimal statistical methods to discover self-lensing flares in optical survey data, and in X-ray eclipse mapping
 
-![Adam](/assets/images/Adam.png)
+![Adam!](/assets/images/Adam.png)
