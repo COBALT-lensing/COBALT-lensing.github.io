@@ -46,6 +46,7 @@ header_pages:
   - about.markdown
   - science.markdown
   - CS.markdown
+  - Alerts.markdown
   - news.markdown
   - bio.markdown
 
