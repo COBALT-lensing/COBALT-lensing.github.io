@@ -14,7 +14,7 @@ Self-lensing has been located in three white dwarf systems to date. The hunt is 
 
 # The maths
 
-As described across several seminal papers, the self-lensing signal depends on some key characteristics of the system, notably the masses of the star and lens, radius of the source star, binary separation, impact parameter and limb darkening. The full equations are implemented in the code found here: <ADDURL for the current code> but a simplified picture is shown below.
+As described across several seminal papers ([Witt & Mao 1994](https://ui.adsabs.harvard.edu/abs/1994ApJ...430..505W/abstract); [Gould 1995](https://ui.adsabs.harvard.edu/abs/1995ApJ...446..541G/abstract);[Agol 2002](https://ui.adsabs.harvard.edu/abs/2002ApJ...579..430A/abstract);[Agol 2003](https://ui.adsabs.harvard.edu/abs/2003ApJ...594..449A/abstract)]), the self-lensing signal depends on some key characteristics of the system, notably the masses of the star and lens, radius of the source star, binary separation, impact parameter and limb darkening. The full equations are implemented in the code found here: <ADDURL for the current code> but a simplified picture is shown below.
 
 # Predicted  numbers
   
