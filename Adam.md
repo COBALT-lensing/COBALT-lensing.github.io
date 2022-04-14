@@ -1,1 +1,5 @@
-Adam's Bio and pic
+I am a Lecturer and Royal Society University Research Fellow (URF) at Newcastle University. I completed my PhD at Durham University 2008-2012 and was awarded the 2012 Michael Penston Thesis Prize by the Royal Astronomical Society for the best astronomy thesis in the UK that year. I then spent 5 years at the University of Amsterdam, the first two as a postdoc and the final three as an NWO Veni Fellow. I became a Royal Society URF in 2017, first at Oxford before I moved to Newcastle in October 2021.
+
+Much of my research focuses on using X-ray observations and theoretical modelling to probe the environment of accreting black holes and neutron stars. I have a track record of developing novel observational techniques to test theoretical models, for instance enabling phase resolved spectroscopy of the X-ray quasi-periodic oscillations observed from black hole X-ray binary systems. Within the COBALT collaboration, I am interested in investigating the optimal statistical methods to discover self-lensing flares in optical survey data, and in X-ray eclipse mapping
+
+![Adam](/assets/images/Adam.png)
