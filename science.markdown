@@ -24,7 +24,7 @@ where <img src="https://render.githubusercontent.com/render/math?math=a"> is the
   
 The Einstein crossing time is given by: 
   
-<img src="https://render.githubusercontent.com/render/math?math=\tau = \frac{P_{orb}(R_{E}+R_{\star}}{\pi asin(i)}\sqrt{1-\left(\frac{b}{b_{max}}\right)}">   
+<img src="https://render.githubusercontent.com/render/math?math=\tau = \frac{P_{orb}(R_{E} + R_{\star}}{\pi asin(i)}\sqrt{1-\left(\frac{b}{b_{max}}\right)^{2}}">   
   
 # Predicted  numbers
   
