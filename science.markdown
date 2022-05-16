@@ -24,7 +24,7 @@ where <img src="https://render.githubusercontent.com/render/math?math=a"> is the
 
 The Einstein crossing time is given by: 
   
-<img src="https://render.githubusercontent.com/render/math?math=\tau = \frac{P_{orb}\left(R_{E} + R_{\star}\right)}{\pi asin(i)}\sqrt{1-\left(\frac{b}{b_{max}}\right)^{2}}">   
+<img src="https://render.githubusercontent.com/render/math?math=\tau = \frac{P_{orb}\left(R_{E} %2b R_{\star}\right)}{\pi asin(i)}\sqrt{1-\left(\frac{b}{b_{max}}\right)^{2}}">   
   
 The eccentricty of the system can be inlcuded where <img src="https://render.githubusercontent.com/render/math?math=e = \frac{r_{max}}{a}-1"> which leads to:
   
