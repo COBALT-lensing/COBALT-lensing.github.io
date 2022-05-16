@@ -21,10 +21,16 @@ The Einstein radius is given by:
 <img src="https://render.githubusercontent.com/render/math?math=R_{E}=\sqrt{\frac{4aGMsin(i)}{c^{2}}}">  
   
 where <img src="https://render.githubusercontent.com/render/math?math=a"> is the binary separation and <img src="https://render.githubusercontent.com/render/math?math=i"> is the inclination of the system.
-  
+
 The Einstein crossing time is given by: 
   
-<img src="https://render.githubusercontent.com/render/math?math=\tau = \frac{P_{orb}(R_{E} + R_{\star}}{\pi asin(i)}\sqrt{1-\left(\frac{b}{b_{max}}\right)^{2}}">   
+<img src="https://render.githubusercontent.com/render/math?math=\tau = \frac{P_{orb}(R_{E} + R_{\star})}{\pi asin(i)}\sqrt{1-\left(\frac{b}{b_{max}}\right)^{2}}">   
+  
+Including eccentricty of the system using <img src="https://render.githubusercontent.com/render/math?math=e = \frac{r_{max}/a}-1">  
+  
+<img src="https://render.githubusercontent.com/render/math?math=R_{E}=\sqrt{\frac{4aGM}{c^{2}}\frac{a(1-e^{2}}{1+esin(w)}}">    
+  
+  
   
 # Predicted  numbers
   
