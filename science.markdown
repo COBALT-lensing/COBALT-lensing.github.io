@@ -28,7 +28,7 @@ The Einstein crossing time is given by:
   
 The eccentricty of the system can be inlcuded where <img src="https://render.githubusercontent.com/render/math?math=e = \frac{r_{max}}{a}-1"> which leads to:
   
-<img src="https://render.githubusercontent.com/render/math?math=R_{E}=\sqrt{\frac{4aGM}{c^{2}}\frac{a(1-e^{2})}{1+esin(w)}}">    
+<img src="https://render.githubusercontent.com/render/math?math=R_{E}=\sqrt{\frac{4aGM}{c^{2}}\frac{a(1-e^{2})}{1 %2b esin(w)}}">    
 
 where <img src="https://render.githubusercontent.com/render/math?math=w"> is the    
   
