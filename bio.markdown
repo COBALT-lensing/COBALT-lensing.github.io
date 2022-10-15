@@ -20,7 +20,6 @@ permalink: /Members/
 * Prof Chris Belczynski
 * Prof Eric Bellm
 * Prof Simon Vaughan
-* Prof Kris Belcyznski
 * Prof Tom Maccarone
 * Dr Adam McMaster
 * Dr Andrés Gurpide
