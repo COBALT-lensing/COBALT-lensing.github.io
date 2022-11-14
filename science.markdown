@@ -30,7 +30,7 @@ The eccentricty of the system can be inlcuded where <img src="https://render.git
   
 <img src="https://render.githubusercontent.com/render/math?math=R_{E}=\sqrt{\frac{4aGM}{c^{2}}\frac{a(1-e^{2})}{1 %2b esin(w)}}">    
 
-where <img src="https://render.githubusercontent.com/render/math?math=w"> is the    
+where <img src="https://render.githubusercontent.com/render/math?math=w"> is the argument of periastron.  
   
 By including the velocity of the lens at various stages of the orbit, a new estimate for <img src="https://render.githubusercontent.com/render/math?math=\tau"> be be obtained.
   
