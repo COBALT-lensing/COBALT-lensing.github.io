@@ -32,7 +32,7 @@ The eccentricty of the system can be inlcuded where <img src="https://render.git
 
 where <img src="https://render.githubusercontent.com/render/math?math=w"> is the argument of periastron.  
   
-By including the velocity of the lens at various stages of the orbit, a new estimate for <img src="https://render.githubusercontent.com/render/math?math=\tau"> be be obtained.
+By including the velocity of the lens at various stages of the orbit, a new estimate for <img src="https://render.githubusercontent.com/render/math?math=\tau"> can be obtained.
   
   
   
