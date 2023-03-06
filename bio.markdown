@@ -21,7 +21,7 @@ permalink: /Members/
 * Prof Eric Bellm
 * Prof Simon Vaughan
 * Prof Tom Maccarone
-* Dr Nora Eisner (Nora.md)
+* [Dr Nora Eisner](Nora.md)
 * Dr Adam McMaster
 * Dr Andrés Gurpide
 * Dr Noel Castro-Segura
