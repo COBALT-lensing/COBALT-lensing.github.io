@@ -1,3 +1,4 @@
+{% include lib/mathjax.html %}
 ---
 layout: page
 title: The science of self-lensing
@@ -18,7 +19,11 @@ As described across several seminal papers ([Witt & Mao 1994](https://ui.adsabs.
 
 The Einstein radius is given by:
   
-<img src="https://render.githubusercontent.com/render/math?math=R_{E}=\sqrt{\frac{4aGMsin(i)}{c^{2}}}">  
+<!-- <img src="https://render.githubusercontent.com/render/math?math=R_{E}=\sqrt{\frac{4aGMsin(i)}{c^{2}}}"> --/>
+
+$$
+R_{E}=\sqrt{\frac{4aGMsin(i)}{c^{2}}}
+$$
   
 where <img src="https://render.githubusercontent.com/render/math?math=a"> is the binary separation and <img src="https://render.githubusercontent.com/render/math?math=i"> is the inclination of the system.
 
