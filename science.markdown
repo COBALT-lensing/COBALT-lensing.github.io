@@ -1,9 +1,10 @@
-{% include lib/mathjax.html %}
 ---
 layout: page
 title: The science of self-lensing
 permalink: /science/
 ---
+
+{% include lib/mathjax.html %}
 
 ## What is self-lensing?
 
