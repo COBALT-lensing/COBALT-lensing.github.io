@@ -29,13 +29,13 @@ where $$a$$ is the binary separation and $$i$$ is the inclination of the system.
 The Einstein crossing time is given by: 
   
 $$
-\tau = \frac{P_{orb}\left(R_{E} 2b R_{\star}\right)}{\pi a\sin(i)}\sqrt{1-\left(\frac{b}{b_{max}}\right)^{2}}
+\tau = \frac{P_{orb}\left(R_{E} + R_{\star}\right)}{\pi a\sin(i)}\sqrt{1-\left(\frac{b}{b_{max}}\right)^{2}}
 $$
   
 The eccentricty of the system can be included where $$e = \frac{r_{max}}{a}-1$$ which leads to:
   
 $$
-R_{E}=\sqrt{\frac{4aGM}{c^{2}}\frac{a(1-e^{2})}{1 %2b e\sin(w)}}
+R_{E}=\sqrt{\frac{4aGM}{c^{2}}\frac{a(1-e^{2})}{1 + e\sin(w)}}
 $$
 
 where $$w$$ is the argument of periastron.  
