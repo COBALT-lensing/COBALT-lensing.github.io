@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Citizen Science – Black Hole Hunters
+title: Citizen Science
 permalink: /CitizenScience/
 ---
 
