@@ -1,0 +1,7 @@
+{% extends "base.html" %}
+{% block title %}News | {{ SITENAME }}{% endblock %}
+{% block canonical %}news/{% endblock %}
+{% block content %}
+<section class="document"><header class="page-heading"><p class="eyebrow">From the consortium</p><h1>News</h1><p class="lead">The latest news about COBALT.</p></header>
+<div class="news-list">{% for article in articles %}<article class="news-item"><time datetime="{{ article.date.isoformat() }}">{{ article.date.strftime('%d %B %Y') }}</time><h2><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2><div class="prose">{{ article.summary }}</div><a class="text-link" href="{{ SITEURL }}/{{ article.url }}">Read article <span aria-hidden="true">↗</span></a></article>{% else %}<p>Project news will appear here.</p>{% endfor %}</div></section>
+{% endblock %}

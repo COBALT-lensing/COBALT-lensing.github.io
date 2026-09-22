@@ -1,8 +1,7 @@
----
-layout: page
-title: Citizen Science
-permalink: /CitizenScience/
----
+Title: Citizen Science
+URL: CitizenScience/
+Save_as: CitizenScience/index.html
+Template: page
 
 The _[Black Hole Hunters](https://www.zooniverse.org/projects/hughdickinson/superwasp-black-hole-hunters)_ project is a citizen science search for self-lensing events. That means anyone – including you! – can help with the search by reviewing light curves online.
 
@@ -22,4 +21,3 @@ Here's a sneak peak of some of the early light curves flagged by our volunteers.
 ![SL4](/assets/images/SL4.jpg)
 ![SL5](/assets/images/SL5.jpg)
 ![SL6](/assets/images/SL6.jpg)
-

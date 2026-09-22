@@ -1,0 +1,83 @@
+{% extends "page.html" %}
+{% block title %}{{ SITENAME }} — {{ SITESUBTITLE }}{% endblock %}
+{% block content %}
+<section class="hero" aria-labelledby="hero-title">
+  <div class="hero-copy">
+    <p class="eyebrow">Exploring the unseen universe</p>
+    <h1 id="hero-title">Making the<br>darkness <em>visible.</em></h1>
+    <p class="lead">Finding hidden black holes through the light of their companion stars.</p>
+    <div class="hero-actions"><a class="button" href="{{ SITEURL }}/science/">Explore the science <span
+          aria-hidden="true">↗</span></a><a class="text-link" href="{{ SITEURL }}/CitizenScience/">Join the search <span
+          aria-hidden="true">→</span></a></div>
+  </div>
+  <div class="lensing-art">
+    <svg class="binary-orbits" viewBox="0 0 500 500" role="img" aria-labelledby="binary-title binary-description">
+      <title id="binary-title">A black hole and its companion star</title>
+      <desc id="binary-description">A circular black hole and a larger star on opposite sides of their shared
+        barycentre. Their elliptical orbits share this point as a focus. Body sizes are illustrative, not to scale.
+      </desc>
+      <defs>
+        <radialGradient id="companion-light" cx="35%" cy="30%" r="75%">
+          <stop offset="0" stop-color="#fffaf0" />
+          <stop offset="0.55" stop-color="#ffe4af" />
+          <stop offset="1" stop-color="#d89b50" />
+        </radialGradient>
+        <filter id="black-hole-glow" x="-100%" y="-100%" width="300%" height="300%">
+          <feGaussianBlur stdDeviation="5" />
+        </filter>
+        <filter id="star-glow" x="-100%" y="-100%" width="300%" height="300%">
+          <feGaussianBlur stdDeviation="12" />
+        </filter>
+      </defs>
+      <!-- Barycentre (240,245); eccentricity 0.65; semimajor axes 80 and 130.
+           Opposite periapses put a focus of each ellipse at the barycentre.
+           Both bodies have eccentric anomaly 120 degrees, with their position
+           vectors opposed and scaled by 130/80 (the inverse mass ratio). -->
+      <!-- Rotate the complete system together to keep both major axes collinear. -->
+      <g transform="rotate(-25 240 245)">
+        <g class="orbital-tracks">
+          <ellipse cx="188" cy="245" rx="80" ry="60.795" />
+          <ellipse class="star-track" cx="324.5" cy="245" rx="130" ry="98.791" />
+        </g>
+        <circle cx="148" cy="297.651" r="25" class="black-hole-halo" filter="url(#black-hole-glow)" />
+        <circle cx="148" cy="297.651" r="25" class="black-hole" />
+        <circle cx="389.5" cy="159.443" r="46" class="star-halo" filter="url(#star-glow)" />
+        <circle cx="389.5" cy="159.443" r="46" fill="url(#companion-light)" />
+      </g>
+    </svg>
+    <p>A black hole/stellar binary can create gravitational self-lensing. <a href="/science/">Read more</a></a></p>
+  </div>
+</section>
+<section class="intro-section">
+  <p class="eyebrow">The COBALT project</p>
+  <div class="prose">{{ page.content }}</div>
+</section>
+<section class="feature-grid" aria-label="Explore COBALT">
+  <a class="feature" href="{{ SITEURL }}/science/"><span class="feature-number">01 / Research</span>
+    <h2>The science of<br>self-lensing</h2>
+    <p>How gravity bends starlight and reveals compact objects in binary systems.</p><span class="text-link">Understand
+      the physics ↗</span>
+  </a>
+  <a class="feature" href="{{ SITEURL }}/CitizenScience/"><span class="feature-number">02 / Participate</span>
+    <h2>Help find a<br>hidden black hole</h2>
+    <p>Explore stellar light curves with the Black Hole Hunters citizen science project.</p><span
+      class="text-link">Discover the project ↗</span>
+  </a>
+  <a class="feature" href="{{ SITEURL }}/Members/"><span class="feature-number">03 / Collaboration</span>
+    <h2>Meet the<br>consortium</h2>
+    <p>The researchers bringing together observations, theory, and data science.</p><span class="text-link">Our members
+      ↗</span>
+  </a>
+</section>
+{% if articles %}<section class="home-news">
+  <div class="section-title">
+    <div>
+      <p class="eyebrow">From the consortium</p>
+      <h2>Latest news</h2>
+    </div><a class="text-link" href="{{ SITEURL }}/news/">All news →</a>
+  </div>{% for article in articles[:2] %}<article class="news-row"><time datetime="{{ article.date.isoformat() }}">{{
+      article.date.strftime('%d %B %Y') }}</time>
+    <h3><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }} <span aria-hidden="true">↗</span></a></h3>
+  </article>{% endfor %}
+</section>{% endif %}
+{% endblock %}

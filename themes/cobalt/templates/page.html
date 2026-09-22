@@ -1,0 +1,6 @@
+{% extends "base.html" %}
+{% block title %}{{ page.title|striptags|e }} | {{ SITENAME }}{% endblock %}
+{% block canonical %}{{ page.url.lstrip('/') }}{% endblock %}
+{% block content %}
+<article class="document"><header class="page-heading"><p class="eyebrow">The COBALT project</p><h1>{{ page.title }}</h1></header><div class="prose">{{ page.content }}</div></article>
+{% endblock %}
