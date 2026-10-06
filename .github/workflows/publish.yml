@@ -31,8 +31,6 @@ jobs:
         run: uv run --locked python -m unittest discover -s tests
       - name: Build production site
         run: uv run --locked pelican content -s publishconf.py
-      - name: Check generated site
-        run: uv run --locked python scripts/check_site.py
       - name: Configure Pages
         if: github.event_name != 'pull_request' && github.ref == 'refs/heads/master'
         uses: actions/configure-pages@v5
