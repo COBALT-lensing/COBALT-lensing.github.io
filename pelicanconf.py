@@ -36,7 +36,7 @@ USE_FOLDER_AS_CATEGORY = False
 DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = [
     ("Home", "/"), ("About", "/about/"), ("Science", "/science/"),
-    ("Citizen Science", "/CitizenScience/"), ("Alerts", "/Alerts/"),
+    ("Citizen Science", "/CitizenScience/"),
     ("News", "/news/"), ("Members", "/Members/"),
 ]
 FEED_ALL_ATOM = None
