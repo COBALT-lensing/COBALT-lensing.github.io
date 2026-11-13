@@ -24,8 +24,23 @@
   <a class="skip-link" href="#main">Skip to content</a>
   <header class="site-header">
     <div class="shell header-inner">
-      <a class="brand" href="{{ SITEURL }}/" aria-label="Black Hole Hunters home"><span class="brand-orbit"
-          aria-hidden="true"></span>Black Hole Hunters<span class="brand-caption">Citizen Science Project</span></a>
+      <a class="brand" href="{{ SITEURL }}/" aria-label="Black Hole Hunters home"><svg class="brand-black-hole"
+          viewBox="0 0 56 72" aria-hidden="true" focusable="false">
+          <defs>
+            <linearGradient id="brand-ring-light" x1="0" y1="1" x2="1" y2="0">
+              <stop offset="0" stop-color="#416cbd" />
+              <stop offset=".55" stop-color="#9bbdff" />
+              <stop offset="1" stop-color="#f0f6ff" />
+            </linearGradient>
+          </defs>
+          <circle class="brand-ring-glow" cx="28" cy="28" r="21" />
+          <circle class="brand-einstein-ring" cx="28" cy="28" r="21" />
+          <g transform="rotate(-15 28 28)">
+            <path class="brand-caustic" d="M 28 11 C 28 23 33 28 45 28 C 33 28 28 33 28 45 C 28 33 23 28 11 28 C 23 28 28 23 28 11 Z" />
+          </g>
+          <circle class="brand-event-horizon" cx="28" cy="28" r="4.5" />
+          <path class="brand-light-curve" d="M 4 66 C 15 66 19 65 22 62 C 25 59 25 54 28 54 C 31 54 31 59 34 62 C 37 65 41 66 52 66" />
+        </svg>Black Hole Hunters<span class="brand-caption">Citizen Science Project</span></a>
       <nav aria-label="Main navigation">{% for label, path in MENUITEMS %}<a href="{{ SITEURL }}{{ path }}" {% if (page
           is defined and ('/' ~ page.url.lstrip('/'))==path) or (page is not defined and path=='/news/' ) %}
           aria-current="page" {% endif %}>{{ label }}</a>{% endfor %}</nav>
