@@ -1,11 +1,12 @@
 """Local build settings; run from the repository root."""
+
 from pathlib import Path
 
 AUTHOR = "COBALT consortium"
-SITENAME = "COBALT"
+SITENAME = "Black Hole Hunters"
 SITESUBTITLE = "Making the darkness visible"
 DESCRIPTION = "Searching for non-accreting black holes in binary star systems through the gravitational lensing of light from their companion stars."
-CONTACT_EMAIL = "M.J.Middleton@soton.ac.uk"
+CONTACT_EMAIL = "a.mcmaster@soton.ac.uk"
 SITEURL = ""
 TIMEZONE = "Europe/London"
 DEFAULT_LANG = "en"
@@ -35,9 +36,12 @@ ARCHIVES_SAVE_AS = ""
 USE_FOLDER_AS_CATEGORY = False
 DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = [
-    ("Home", "/"), ("About", "/about/"), ("Science", "/science/"),
+    ("Home", "/"),
+    ("About COBALT", "/about/"),
+    ("Science", "/science/"),
     ("Citizen Science", "/CitizenScience/"),
-    ("News", "/news/"), ("Members", "/Members/"),
+    ("News", "/news/"),
+    ("Members", "/Members/"),
 ]
 FEED_ALL_ATOM = None
 FEED_ATOM = None
@@ -48,7 +52,8 @@ TRANSLATION_FEED_ATOM = None
 SUMMARY_MAX_LENGTH = 50
 MARKDOWN = {
     "extension_configs": {
-        "markdown.extensions.extra": {}, "markdown.extensions.meta": {},
+        "markdown.extensions.extra": {},
+        "markdown.extensions.meta": {},
         "pymdownx.arithmatex": {"generic": True},
     },
     "output_format": "html5",
